@@ -23,7 +23,7 @@ Install [Composer](https://getcomposer.org/download/), [Xampp](https://www.apach
         
         `DB_PASSWORD=password`
         
-4.  Create a table in your MySql (Should match the database name inside your .env) 
+4.  Create a database in your MySql (Should match the database name inside your .env) 
 
 5.  Run `php artisan key:generate` - This command will generate an application key to your `.env` file
 
